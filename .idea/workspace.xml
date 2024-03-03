@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59efa303-1c49-476e-b6d8-8a33440feaa1" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/jenkinsfile" afterDir="false" />
+    <list default="true" id="59efa303-1c49-476e-b6d8-8a33440feaa1" name="Changes" comment="jenkinsfile updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AdditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AdditionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FactorialSumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FactorialSumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,24 +32,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.AdditionTest.executor": "Run",
-    "JUnit.AdditionTest.testAddition.executor": "Run",
-    "JUnit.CalculatorTest.testSubtraction.executor": "Run",
-    "JUnit.FactorialSumTest.executor": "Run",
-    "JUnit.FactorialSumTest.testFactorial.executor": "Run",
-    "JUnit.TestDemo.executor": "Run",
-    "JUnit.TestDemo.test2.executor": "Run",
-    "Maven.TestWorks [clean].executor": "Run",
-    "Maven.TestWorks [test].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/home/kkk/Desktop/projectDevOps/springProjects/TestWorks/src/main/java/com/tau/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.AdditionTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AdditionTest.testAddition.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.testSubtraction.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FactorialSumTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FactorialSumTest.testFactorial.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestDemo.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestDemo.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.TestWorks [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.TestWorks [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/kkk/Desktop/projectDevOps/springProjects/TestWorks/src/main/java/com/tau/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JUnit.CalculatorTest.testSubtraction">
     <configuration name="AdditionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestWorks" />
@@ -136,12 +133,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709445271382</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="jenkinsfile updates">
+      <option name="closed" value="true" />
+      <created>1709450825238</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709450825238</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="jenkinsfile updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="jenkinsfile updates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

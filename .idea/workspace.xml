@@ -4,21 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59efa303-1c49-476e-b6d8-8a33440feaa1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ChatGPTCopilotChannelManager.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tau/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tau/FactorialSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tau/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AdditionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FactorialSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestDemo.java" afterDir="false" />
+    <list default="true" id="59efa303-1c49-476e-b6d8-8a33440feaa1" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/jenkinsfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AdditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AdditionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FactorialSumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FactorialSumTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +39,7 @@
   "keyToString": {
     "JUnit.AdditionTest.executor": "Run",
     "JUnit.AdditionTest.testAddition.executor": "Run",
+    "JUnit.CalculatorTest.testSubtraction.executor": "Run",
     "JUnit.FactorialSumTest.executor": "Run",
     "JUnit.FactorialSumTest.testFactorial.executor": "Run",
     "JUnit.TestDemo.executor": "Run",
@@ -136,7 +128,20 @@
       <option name="presentableId" value="Default" />
       <updated>1709442101319</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1709445271382</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709445271382</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

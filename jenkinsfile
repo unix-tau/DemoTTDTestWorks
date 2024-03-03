@@ -1,0 +1,13 @@
+pipeline {
+  agent any
+  stages {
+    stage("Build") {
+      steps {
+        git url: 'git@github.com:unix-tau/DemoTTDTestWorks'
+        withMaven {
+          sh "mvn clean install verify -Djava.io.tmpdir=/tmp"
+        } // withMaven will discover the generated Maven artifacts, JUnit Surefire & FailSafe reports and FindBugs reports
+      }
+    }
+  }
+}
